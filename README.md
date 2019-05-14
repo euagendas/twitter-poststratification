@@ -42,7 +42,7 @@ For the leave-one-region out cross-validation, we provided two implementation:
  - Ignoring organization account counts: debias_twitter_leave_one_region_CV.R
  
 ## Computing inclusion probability
-TODO
+To compute the inclusion probabilities for each nuts3 region following equation 2 in the paper, run compute_inclusion_probabilities_by_region.R 
 
 ## Citation
 Please cite our [WWW 2019 paper](https://doi.org/10.1145/3308558.3313684) if you use these scripts in your project.
